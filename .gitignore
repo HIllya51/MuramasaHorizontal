@@ -1,3 +1,8 @@
 nss
-patch/build
+muramasa/patch/build
 nss.npa
+nss-1.npa
+kikokugai/patch/build
+kikokugai/nss-1-h
+kikokugai/nss-1
+*.npa
