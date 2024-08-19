@@ -1,0 +1,1 @@
+#### [装甲恶鬼村正](https://github.com/HIllya51/MuramasaHorizontal/releases/download/release/zjegcz_h.zip)和[鬼哭街](https://github.com/HIllya51/MuramasaHorizontal/releases/download/release/kikokugai_h.zip)的横向文字补丁
